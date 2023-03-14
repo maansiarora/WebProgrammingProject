@@ -1,4 +1,4 @@
-Web Programming Assignment 1 - 2023 (Flexible Semester)
+Web Programming Assignment 2 - 2023 (Flexible Semester)
 
 Submitted by : 
 - Maansi Arora (s3885529)
