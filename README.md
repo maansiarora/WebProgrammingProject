@@ -1,9 +1,5 @@
 Web Programming Assignment 2 - 2023 (Flexible Semester)
 
-Submitted by : 
-- Maansi Arora (s3885529)
-- Janhvi Anil Tiwari (s3874546)
-
 Server Links:
 Link to the hosted website for assignment 2 (main)- https://saturn.csit.rmit.edu.au/~s3885529/wp/a2/index.php
 Link to the hosted website for assignment 2 (admin portal)- https://saturn.csit.rmit.edu.au/~s3885529/wp/a2/admin/portal.php
